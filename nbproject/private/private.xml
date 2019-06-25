@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/src/java/Modelo/Usuario.java</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/web/Login.jsp</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/src/java/Modelo/VentaDIA.java</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/web/Abastecer_Producto.jsp</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/src/java/Modelo/Categoria.java</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/src/java/Modelo/UsuarioDB.java</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/web/index.jsp</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/web/Busqueda.jsp</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/web/Ver_PROD.jsp</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/src/java/Modelo/Producto.java</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/web/Registrar_Producto.jsp</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/web/Registrar_Usu.jsp</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/web/Agrega_categoria.jsp</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/web/ActualizarProducto.jsp</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/src/java/Modelo/ProductoDB.java</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/src/java/Modelo/DetalleVentaDB.java</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/src/java/Controlador/Servlet_logueo.java</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/src/java/Modelo/CategoriaDB.java</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/src/java/Modelo/Venta.java</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/src/java/Modelo/VentaDiaDB.java</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/web/Agregar_carrito.jsp</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/web/mensaje.jsp</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/web/RegistrarVenta.jsp</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/src/java/Controlador/Servlet_controlador.java</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/src/java/Modelo/DetalleVenta.java</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/web/Detalle_Pedido.jsp</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/web/Filtro.jsp</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/web/Ventas_del_dia.jsp</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/web/RegistrarProducto2.jsp</file>
+            <file>file:/F:/Ventanilla%20SA/Autopartes_Ventanilla_SA/src/java/Modelo/VentaDB.java</file>
+        </group>
+    </open-files>
+</project-private>
